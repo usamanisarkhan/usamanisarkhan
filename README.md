@@ -21,10 +21,22 @@
 
 ---
 
-### ✍️ Sometimes I write here...
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to)](https://dev.to)
-[![My Blog](https://img.shields.io/badge/-My%20Blog-34A853?style=flat)](https://yourblog.com)
+### ✍️ Hackathons completed- (Current..)
+Mentor at GenAI.works									Presently
+Participated in MIT Quantum Computing Hackathon					Mar 2025
+Ranked 122 out of 531 in MIT Informatics Tournament				Jan 2025
+Participated in the University of Berkley Coding competition				Nov 2024
+Participated in NASA Space Apps Competition					Oct 2024
+Created an application using o1 Model which gives atmospheric details of any Latitude and Longitude entered.
+Participated in Meta Hacker Cup 2024 - Closed AI Track				Oct 2024
+Finalist of International Build Your AI App Hackathon  	        		        	Sept 2024
+Created business cases of our concept which provides 31,000% efficiency gain, significantly reducing computational costs and improving performance in large base systems.
+Participated and won 3rd position in WordSprint Developers Hackathon 3.0 	July 2024
+Led in completing the project and delivering the project in 3 days covering  all features
+Participated in International Langflow Hackathon					July 2024
+Led a 5 member team to build a web app using RAG and Cohere API to guide pregnant females.
+
+
 
 ---
 
