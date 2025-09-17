@@ -9,27 +9,6 @@
 
 ---
 
-## 🏆 Achievements & Awards  
-- 🏅 Excelled to **Top 5 Officers** – Ministry of Defence (2011)  
-- 🎓 **Fully Funded Scholarship** – Software Engineering, MoD  
-- ✍️ IELTS Band **7** | GRE: Quant 156 | Analytical 3 | Verbal 141  
-- 🥉 **3rd Place** – WordSprint Developers Hackathon 3.0 (2024)  
-- 🎖️ Finalist – International Build Your AI App Hackathon (2024)  
-
----
-
-## 🎓 Education  
-
-🎓 **MBA – Organizational Management**  
-*Lahore University of Management Sciences (LUMS)*  
-📍 Lahore, Pakistan | 2017–2020 | CGPA **3.3/4.0**  
-
-🎓 **Bachelor in Software Engineering**  
-*National University of Sciences & Technology (NUST)*  
-📍 Islamabad, Pakistan | 2011–2015 | CGPA **3.11/4.0**  
-
----
-
 ## 💡 Skills  
 
 **Languages & Frameworks**  
