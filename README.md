@@ -4,7 +4,7 @@
 
 I'm **Usama Nisar**, 
 
-A seasoned AI Engineer that currently pursuing ** MS in Artificial Engineering and Digital Industry, ** at **Xamk**.
+A seasoned **AI Engineer** currently pursuing ** MS in Artificial Engineering and Digital Industry, ** at **Xamk**.
 
 Also, I'm **[Gen AI Mentor](https://Genai.works)**, Visiting Lecturer at **[TMUC](https://TMUC.edu,ok)**.
 <br><br>
