@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Usama  
 
-💻 PhD Student | IT Manager | AI Engineer in Transition  
-🌍 Based in Pakistan | Open to global collaborations  
+💻 AI Engineer
+🌍 South-Eastern Finland University  
 
 ---
 
@@ -34,31 +34,3 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
 ---
-# Hi, I'm Usama 👋
-
-Currently working on [Your Main Project](https://github.com/yourproject).  
-Read my [blog](https://yourblog.com), subscribe to my [newsletter](https://newsletter.com),  
-follow me on [Twitter](https://twitter.com/yourhandle), [Mastodon](https://mastodon.social/@you).
-
----
-
-## 📦 Recent releases
-<!-- recent_releases starts -->
-<!-- recent_releases ends -->
-
----
-
-## ✍️ On my blog
-<!-- blog starts -->
-<!-- blog ends -->
-
----
-
-## 📚 TIL (Today I Learned)
-<!-- til starts -->
-<!-- til ends -->
-
-
-### 🎧 Fun Stuff
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&logo=steam)](https://steamcommunity.com)
