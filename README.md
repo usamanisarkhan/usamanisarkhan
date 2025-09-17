@@ -22,7 +22,7 @@
 ---
 
 ### ✍️ Hackathons completed- (Current..)
-!Mentor at GenAI.works									
+![Mentor at GenAI.works]									
 !Participated in MIT Quantum Computing Hackathon					Mar 2025
 Ranked 122 out of 531 in MIT Informatics Tournament				Jan 2025
 Participated in the University of Berkley Coding competition				Nov 2024
