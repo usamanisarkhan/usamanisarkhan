@@ -10,7 +10,9 @@ Also, I'm **[Gen AI Mentor](https://Genai.works)**, Visiting Lecturer at **[TMUC
 <br><br>
 
 
-### Contact
+<p align='center'>
+  <a href="https://www.linkedin.com/in/usama-nisar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:usamanisarkhan85@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/obetomuniz) to explore the transformative potential of Open Source and build a better future on the web together!
+</p>
 
