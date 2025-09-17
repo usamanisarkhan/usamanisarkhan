@@ -42,3 +42,17 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/-LangChain-1E90FF?style=flat&logo=chainlink)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws"><br>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+    </td>
+    <td width="1" style="background-color:#ccc"></td> <!-- divider -->
+    <td>
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/-LangChain-1E90FF?style=flat&logo=chainlink">
+    </td>
+  </tr>
+</table>
