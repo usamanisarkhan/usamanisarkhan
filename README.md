@@ -34,3 +34,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
 ---
+### 🔧 I’m currently working with...
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-1E90FF?style=flat&logo=chainlink)
+
