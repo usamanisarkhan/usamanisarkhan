@@ -1,11 +1,8 @@
 # Hi there 👋, I'm Usama  
 
 💻 AI Engineer
-🌍 South-Eastern Finland University  
-
-# 👋 Hi, I'm Usama Nisar  
-
-🌐 [LinkedIn](https://www.linkedin.com/in/usamanisar) | [GitHub](https://github.com/usamanisarkhan)  
+🌍 South-Eastern Finland University
+🌐 [LinkedIn](https://www.linkedin.com/in/usamanisar) 
 
 ---
 
