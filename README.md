@@ -5,7 +5,6 @@
 
 # 👋 Hi, I'm Usama Nisar  
 
-📧 dev.usamanisar@gmail.com | 📞 +92 (323) 959-9996 |  
 🌐 [LinkedIn](https://www.linkedin.com/in/usamanisar) | [GitHub](https://github.com/usamanisarkhan)  
 
 ---
